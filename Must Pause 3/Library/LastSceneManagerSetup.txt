@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Jean-Luc Hayes/Desktop/Hack Jam 2018/Assets/Main.unity
+  isLoaded: 1
+  isActive: 1
